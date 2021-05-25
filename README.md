@@ -6,14 +6,14 @@ OCR Engines like Tesseract library are unable to correctly identify the digits (
 
 We are able to predict the credit card numbers with OCR A font with 100% accuracy.
 
-![alt text](https://github.com/Kaviya-U-C/Template_Matching-OpenCV/blob/main/Input Images/Capture_2.PNG?raw=true)
+![alt text](https://github.com/Kaviya-U-C/Template_Matching-OpenCV/blob/main/Output/Capture_2.PNG?raw=true)
 
 ## Challenges:
 
 Though we are able to predict digits in OCR A font, there are few credit cards with normal font. Template Matching algorithm is not able to predict digits with normal font accurately as it has been trained only on OCR A font. 
 Hence we need to devise an algorithm that can handle both OCR A font and Normal font.
 
-![alt text](https://github.com/Kaviya-U-C/Template_Matching-OpenCV/blob/main/Input Images/Output_1.PNG?raw=true)
+![alt text](https://github.com/Kaviya-U-C/Template_Matching-OpenCV/blob/main/Output/Output_1.PNG?raw=true)
 
 
 
